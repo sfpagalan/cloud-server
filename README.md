@@ -28,7 +28,7 @@ This repository contains a simple Node.js server deployed to AWS Elastic Beansta
 `eb create Cloud-server-env`
 5. Deploy your application to the environment using:
 `eb deploy`
-6. Once the deployment is complete, you can access your server at [Link to CLI Deployed Server](<CLI Deployed Server URL>).
+6. Once the deployment is complete, you can access your server at [Link to CLI Deployed Server](http://cloud-server-env.eba-pxmvkxjr.us-west-2.elasticbeanstalk.com/).
 
 ## Troubleshooting and Notes
 
