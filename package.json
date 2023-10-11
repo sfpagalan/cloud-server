@@ -1,0 +1,26 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "Simple Node.js server for AWS Elastic Beanstalk",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon index.js",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sfpagalan/cloud-server.git"
+  },
+  "author": "Sydney Mae Pagalan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sfpagalan/cloud-server/issues"
+  },
+  "homepage": "https://github.com/sfpagalan/cloud-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "0.0.0",
+    "jest": "^29.7.0"
+  }
+}
